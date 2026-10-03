@@ -30,6 +30,6 @@ public class PedidoService {
     public Pedido criar(CriarPedidoDTO dto){
         logger.info("Criando novo pedido para um cliente ID:{}", dto.clienteId());
 
-
+    return null;
     }
 }
